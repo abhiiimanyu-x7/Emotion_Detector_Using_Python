@@ -1,1 +1,1 @@
-# Emotion_Detector_Using_Python
+A real-time emotion detection system using OpenCV, Python, and DeepFace. This system leverages computer vision and deep learning to analyze facial expressions and accurately determine emotions in real-time.
